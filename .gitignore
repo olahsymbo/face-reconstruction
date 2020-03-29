@@ -1,0 +1,13 @@
+all_recons/
+bw_img/
+eigenf/
+mean/
+meann/
+Output3/
+Output5/
+eigenfaces_Cov.py
+face_recons commented.py
+face_recons_multi_updated.py
+face_recons_multiRGB_updated.py
+face_reconsRGB.py
+WorkingPCAwCov.py
